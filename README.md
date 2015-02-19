@@ -5,7 +5,7 @@ for faster and easier web development.
 
 ## Functions
 
-* Develop with bootstrap for responsive web design
+* Foundation for developing responsive web design
 * Scalable and customizable vector icons
 * Customizable error, offline and print page
 
@@ -24,7 +24,7 @@ for faster and easier web development.
 
 ## Blank
 
-Take a look at [Blank without Bootstrap](https://github.com/Bloggerschmidt/Blank).
+Take a look at [Blank without Foundation](https://github.com/Bloggerschmidt/Blank).
 
 ## Licence
 
